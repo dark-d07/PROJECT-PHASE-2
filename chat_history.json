@@ -1,0 +1,438 @@
+[
+    {
+        "user": "hii",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "user": "whatsup bro",
+        "bot": "I'm sorry, I don't understand that.(The Model is still under training)"
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "hii",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "hii",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "user": "what is your name",
+        "bot": "I am your AI assistant. You can call me ChatBot!"
+    },
+    {
+        "user": "name",
+        "bot": "I am your AI assistant. You can call me ChatBot!"
+    },
+    {
+        "user": "name",
+        "bot": "I am your AI assistant for medical purpose. You can call me MEDI-AI"
+    },
+    {
+        "user": "great",
+        "bot": "The Great Wall of China is located in China!"
+    },
+    {
+        "user": "wow",
+        "bot": "I'm sorry, I don't understand that.(The Model is still under training)"
+    },
+    {
+        "user": "what is anemia",
+        "bot": "Anemia is a condition where the blood lacks enough healthy red blood cells to carry oxygen."
+    },
+    {
+        "user": "wow",
+        "bot": "I'm sorry, I don't understand that.(The Model is still under training)"
+    },
+    {
+        "user": "great",
+        "bot": "The Great Wall of China is located in China!"
+    },
+    {
+        "user": "shutup",
+        "bot": "I'm sorry, I don't understand that.(The Model is still under training)"
+    },
+    {
+        "user": "check my health",
+        "bot": ""
+    },
+    {
+        "user": "check my health",
+        "bot": ""
+    },
+    {
+        "user": "check my health",
+        "bot": ""
+    },
+    {
+        "user": "check my health",
+        "bot": ""
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "check",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "i have fever",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "i have",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "i have",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: Invalid JSON format received from health_check.py"
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: No valid health data received."
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: Invalid JSON format received from health_check.py"
+    },
+    {
+        "user": "check",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "check",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: Invalid JSON format received from health_check.py"
+    },
+    {
+        "user": "i have",
+        "bot": "Error from health_check.py: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 1, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error from health_check.py: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 1, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error from health_check.py: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 1, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "have",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "i have",
+        "bot": "Error from health_check.py: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 1, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error from health_check.py: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 1, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error: Invalid JSON format received from health_check.py"
+    },
+    {
+        "user": "i have",
+        "bot": "Error: Invalid JSON format received from health_check.py"
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "whatsup",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "whats up",
+        "bot": "Nothing Just Doing great, How About you?"
+    },
+    {
+        "user": "fine",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "what is anemia",
+        "bot": "Anemia is a condition where the blood lacks enough healthy red blood cells to carry oxygen."
+    },
+    {
+        "user": "ok",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "wow",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "great job",
+        "bot": "The Great Wall of China is located in China!"
+    },
+    {
+        "user": "thank you",
+        "bot": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "user": "quit",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "thank you",
+        "bot": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "user": "thank you",
+        "bot": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "user": "",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "thank you",
+        "bot": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "user": "thank you",
+        "bot": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "user": "quit",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "exit",
+        "bot": "The answer is: e*it"
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "wow",
+        "bot": "Thank you! I have learned a new response."
+    },
+    {
+        "user": "what is mean by coding",
+        "bot": "Thank you! I have learned a new response."
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "quit",
+        "bot": "Thank you! I have learned a new response."
+    },
+    {
+        "user": "wow",
+        "bot": "Thank you! I have learned a new response."
+    },
+    {
+        "user": "wow",
+        "bot": "Thank you! I have learned a new response."
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "wow",
+        "bot": "Thank you! I have learned a new response."
+    },
+    {
+        "user": "what is anemia",
+        "bot": "Anemia is a condition where the blood lacks enough healthy red blood cells to carry oxygen."
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "wow",
+        "bot": "Thank you! I have learned a new response."
+    },
+    {
+        "user": "ok",
+        "bot": "Thank you! I have learned a new response."
+    },
+    {
+        "user": "anemia",
+        "bot": "Anemia is a condition where the blood lacks enough healthy red blood cells to carry oxygen."
+    },
+    {
+        "user": "i have",
+        "bot": "Error checking health: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 2, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error checking health: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 2, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error checking health: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 2, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error checking health: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 2, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "quit",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "quit",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "thank you",
+        "bot": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "user": "thank you",
+        "bot": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "user": "",
+        "bot": "I'm sorry, I don't understand that."
+    },
+    {
+        "user": "thank you",
+        "bot": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "user": "i have",
+        "bot": "Error checking health: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 2, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error checking health: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 2, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error checking health: Traceback (most recent call last):\n  File \"c:\\Users\\super\\Desktop\\DESKTOP\\Final Year project\\PROJECT MEDIC\\New\\health_check.py\", line 2, in <module>\n    import paramiko\nModuleNotFoundError: No module named 'paramiko'"
+    },
+    {
+        "user": "i have",
+        "bot": "Error: Invalid JSON format received"
+    },
+    {
+        "user": "i have",
+        "bot": "Error: Invalid JSON format received"
+    },
+    {
+        "user": "i have",
+        "bot": "Error: Invalid JSON format received"
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: Invalid JSON format received"
+    },
+    {
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "user": "check my health",
+        "bot": "Error: Invalid JSON format received from health_check.py"
+    },
+    {
+        "user": "hello",
+        "bot": "Hi there! What can I do for you?"
+    },
+    {
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "user": "what is anemia",
+        "bot": "Anemia is a condition where the blood lacks enough healthy red blood cells to carry oxygen."
+    },
+    {
+        "user": "anemia",
+        "bot": "Anemia is a condition where the blood lacks enough healthy red blood cells to carry oxygen."
+    },
+    {
+        "user": "menstrual",
+        "bot": "Apply heat packs, drink herbal teas, and do light exercise."
+    },
+    {
+        "user": "what is not anemia",
+        "bot": "Anemia is a condition where the blood lacks enough healthy red blood cells to carry oxygen."
+    },
+    {
+        "user": "what is anemia",
+        "bot": "Anemia is a condition where the blood lacks enough healthy red blood cells to carry oxygen."
+    },
+    {
+        "user": "hii",
+        "bot": "Hello! How can I assist you today?"
+    }
+]
