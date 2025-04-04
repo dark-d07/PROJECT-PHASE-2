@@ -1,0 +1,21 @@
+# Core libraries
+numpy
+opencv-python
+tensorflow
+matplotlib
+seaborn
+scikit-learn
+joblib
+
+# NLP and scraping tools
+nltk
+wikipedia-api
+googlesearch-python
+beautifulsoup4
+requests
+
+# Firebase
+firebase-admin
+
+# SSH
+paramiko
